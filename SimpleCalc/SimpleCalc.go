@@ -1,5 +1,5 @@
-//This is a simple calculator in GoLang.  It does not do order of operations, or supports parens.
-//TODO:  Add parens support.  Add OoO.  Add more functions.
+// This is a simple calculator in GoLang.  It does not do order of operations, or supports parens.
+// TODO:  Add parens support.  Add OoO.  Add more functions.
 
 package main
 
@@ -69,4 +69,3 @@ func main() {
 		}
 	}
 }
-
